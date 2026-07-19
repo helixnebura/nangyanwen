@@ -1,0 +1,5 @@
+interface:
+  display_name: "馕言文转换器"
+  short_description: "把中文改写成倒装放飞的热乎馕言文表达"
+  default_prompt: "Use $nangyanwen to convert the following text into playful 馕言文 while preserving meaning."
+  brand_color: "#E07A1F"
